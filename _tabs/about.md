@@ -14,7 +14,6 @@ Student
 🚩 CTF Player since `2019`
 
 * 🌍  I'm based in Hatyai Thailand.
-* ✉️  You can contact me at [sloywirat@gmial.com](mailto:sloywirat@gmial.com)
 * 🧠  I'm learning red team skills.
 
 ### Skills
