@@ -6,7 +6,7 @@ order: 1
 
 |CTF | Year | Team | Ranking
 |-|-|-|-|-|
-|RPCA-UNICEF Cybersecurity Bootcamp Qualification|2023|IAmGroot|**6**<small>89</small>|
+|RPCA-UNICEF Cybersecurity Bootcamp Qualification|2023|IAmGroot|**6**<small>/89</small>|
 |STDiO CTF|2023|IAmGroot|**25**<small>/242</small>|
 |1337UP LIVE CTF|2023|SirawitTH|**153**<small>/691</small>|
 |Huntress CTF|2023|JustPlay|**953**<small>/4210</small>|
