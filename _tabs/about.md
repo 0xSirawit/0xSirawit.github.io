@@ -10,9 +10,9 @@ order: 4
 Student
 -------
 
-📚 I've been learning about Cybersecurity for 4 years.<br>
-🚩 CTF Player since `2019`
+🚩 CTF Player
 
+* ✉️  You can contact me at [sirawit.psl@gmail.com](mailto:sirawit.psl@gmail.com)
 * 🌍  I'm based in Hatyai Thailand.
 * 🧠  I'm learning red team skills.
 

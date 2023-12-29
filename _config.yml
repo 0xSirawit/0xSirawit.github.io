@@ -16,7 +16,7 @@ timezone: Asia/Bangkok
 
 title: 0xSirawit # the main title
 
-tagline: CTF Player since 2019 # it will display as the sub-title
+tagline: CTF Player # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   CTF writeups
