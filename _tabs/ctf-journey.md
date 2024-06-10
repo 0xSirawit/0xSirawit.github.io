@@ -6,6 +6,7 @@ order: 1
 
 |CTF | Year | Team | Ranking
 |-|-|-|-|-|
+|SEASON-IV US Cyber Open|SirawitTH|**41**<small>/1353</small>|
 |GPN CTF|2024|Doraemon|**71**<small>/688</small>|
 |NahamCon CTF|2024|SirawitTH|**258**<small>/3854</small>|
 |RPCA-UNICEF Cybersecurity Bootcamp Final|2023|IAmGroot|**5**<small>/30</small>|
