@@ -6,6 +6,7 @@ order: 1
 
 |CTF | Year | Team | Ranking
 |-|-|-|-|-|
+|FIRST CTF for ASEAN|2024|Thailand_Sirawit Loywirat|**17**<small>/239</small>|
 |SEASON-IV US Cyber Open|2024|SirawitTH|**41**<small>/1353</small>|
 |GPN CTF|2024|Doraemon|**71**<small>/688</small>|
 |NahamCon CTF|2024|SirawitTH|**258**<small>/3854</small>|
