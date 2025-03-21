@@ -6,6 +6,7 @@ order: 1
 
 |CTF | Year | Team | Ranking
 |-|-|-|-|-|
+|TryHackMe Hackfinity Battle|2025|S1EEPY|**34**<small>/4237</small>|
 |Bloody Xmas|2024|PSU|**8**<small>/160</small>|
 |Thailand Cyber Top Talent Final (Senior)|2024|S1EEPY|**5**<small>/10</small>|
 |Thailand Cyber Top Talent Qualification (Senior)|2024|S1EEPY|**3**<small>/353</small>
