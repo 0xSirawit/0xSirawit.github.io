@@ -13,7 +13,7 @@ Student
 🚩 CTF Player
 
 * ✉️  You can contact me at [sirawit.psl@gmail.com](mailto:sirawit.psl@gmail.com)
-* 🌍  I'm based in Hatyai Thailand.
+* 🌍  I'm based in Songkhla, Thailand.
 * 🧠  I'm learning red team skills.
 
 ### Skills
