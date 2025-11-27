@@ -6,8 +6,10 @@ order: 1
 
 |CTF | Year | Team | Ranking
 |-|-|-|-|-|
-|SECPlayground Hackloween CTF 2025|2025|S1EEPY|**4**<small>/86</small>|
-|Huntress CTF 2025|2025|CyberUNIT|**37**<small>/6869</small>|
+|ASEAN Cyber Shield Hacking Contest Preliminary Round (Student)|2025|Sirawit|**9**<small>/20</small>
+|STDiO CTF|2025|Sirawit|**22**<small>/303</small>
+|SECPlayground Hackloween CTF|2025|S1EEPY|**4**<small>/86</small>|
+|Huntress CTF|2025|CyberUNIT|**37**<small>/6869</small>|
 |Thailand Cyber Top Talent Qualification (Senior)|2025|S1EEPY|**22**<small>/495</small>|
 |SECPlayground Cybersplash CTF|2025|S1EEPY|**2**<small>/92</small>|
 |TryHackMe Hackfinity Battle|2025|S1EEPY|**34**<small>/4237</small>|
