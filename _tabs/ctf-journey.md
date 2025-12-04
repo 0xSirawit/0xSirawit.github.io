@@ -6,7 +6,7 @@ order: 1
 
 |CTF | Year | Team | Ranking
 |-|-|-|-|-|
-|ACS Hacking Contest Preliminary Round (Student)|2025|Sirawit|**9**<small>/20</small>
+|ACS Hacking Contest Preliminary Round (Student)|2025|Bang Kwang guys|**9**<small>/20</small>
 |STDiO CTF|2025|Sirawit|**22**<small>/303</small>
 |SECPlayground Hackloween CTF|2025|S1EEPY|**4**<small>/86</small>|
 |Huntress CTF|2025|CyberUNIT|**37**<small>/6869</small>|
